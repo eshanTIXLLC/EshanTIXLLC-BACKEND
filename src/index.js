@@ -22,8 +22,8 @@ cloudinary.config({
 // 🌐 CORS Configuration
 // =============================
 const allowedOrigins = [
-"https://giftshop-fo.vercel.app",
-  "https://giftshop-bo.vercel.app",
+"https://eshantixllc.com/",
+  "https://eshan-tixllc-admin.vercel.app",
   "http://localhost:3000",
   "http://localhost:3001",
   "https://sandbox.sslcommerz.com",
